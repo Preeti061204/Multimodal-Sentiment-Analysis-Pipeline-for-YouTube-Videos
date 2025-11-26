@@ -150,4 +150,3 @@ Fastest, most stable, and most accurate classifier.
 | **Multimodal Fusion** | ELM              | **100%** |
 
 
-Just tell me!
